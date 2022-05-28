@@ -1,0 +1,39 @@
+#dataAll{
+    /* border: 1px solid red; */
+    width:300px;
+    height:60px;
+    margin: auto;
+
+}
+#addData{
+    width:240px;
+    text-align: center;
+    /* border: 1px solid #111111; */
+}
+#checked{
+    width:40px;
+    height: 15px;
+    /* margin-top: 10px; */
+}
+#addTask{
+    margin-top: 10px;
+    margin-left: 80px;
+    width:100px;
+    background-color:blanchedalmond;
+    border: none;
+}
+#container{
+    width:300px;
+    border: 1px solid blue;
+    margin: auto;
+
+}
+.row>td1{
+    border: 1px solid red;
+    text-align: center;
+
+}
+.delete{
+    margin-left: 300px;
+    margin-bottom: 10px;;
+}
